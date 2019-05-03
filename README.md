@@ -1,4 +1,4 @@
-The Gossip Project - J 23 (de J20 à J23)
+The Gossip Project - J 24 (de J20 à J24)
 
 Une app, The Gossip Project, qui répertorie les potins des utilisateurs.
 
